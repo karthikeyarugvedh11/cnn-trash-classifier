@@ -1,3 +1,33 @@
-##Trash Claasifier using Convolutional Neural Networks##
-This is a CNN model that classifies a given image into different types of trash classes that have been already assigned during the training stage. This model has 99.62% accuracy. 
-User needs to give a image file as an input for which the model gives the class of the image.
+# 🧠 CNN Image Classification
+
+This project implements a **Convolutional Neural Network (CNN)** using deep learning techniques to classify images. Built and trained in a Jupyter notebook using Python.
+
+---
+
+## 📌 Key Features
+
+- ✅ Data loading and preprocessing
+- ✅ CNN model architecture
+- ✅ Model training with validation
+- ✅ Accuracy and loss visualization
+- ✅ Final evaluation on test data
+- ✅ Optionally includes model saving/loading
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- Jupyter Notebook
+- TensorFlow / Keras or PyTorch *(depending on your implementation)*
+- NumPy, Matplotlib
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
